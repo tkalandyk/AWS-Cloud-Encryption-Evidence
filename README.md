@@ -1,3 +1,6 @@
+
+<img width="1536" height="1024" alt="ChatGPT Image Feb 10, 2026, 09_54_19 PM" src="https://github.com/user-attachments/assets/8facd8e6-8cf1-48a7-b7a4-b90611a9e9da" />
+
 # AWS Cloud Encryption Evidence
 
 ---
@@ -6,7 +9,7 @@
 
 Most organizations cannot instantly prove their data is encrypted at rest.
 
-During audits, teams scramble gathering screenshots and console exports. This process is manual, slow, and prone to human error.
+During audits, teams scramble to gather screenshots and find the right people. This process is manual, slow, and prone to human error.
 
 This project demonstrates how encryption evidence collection can be automated, scalable, and audit-ready on demand.
 
@@ -160,8 +163,16 @@ This project uses **boto3**, the official AWS SDK for Python, to securely query 
 
 Generates:
 
-- Encryption Compliance JSON Report  
+<img width="923" height="411" alt="image" src="https://github.com/user-attachments/assets/e3e13dbe-fb9e-4fb1-a553-0e1b2c971f07" />
+
+
+- Encryption Compliance JSON Report
+
+<img width="819" height="742" alt="image" src="https://github.com/user-attachments/assets/1243e36b-c2b4-4293-8fff-f02b4ad74b4a" />
+
 - Encryption Compliance CSV Summary  
+
+<img width="1398" height="148" alt="image" src="https://github.com/user-attachments/assets/7054edc4-82cd-4308-ad29-38e1fb8ad34f" />
 
 Includes:
 
